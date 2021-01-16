@@ -16,7 +16,7 @@
 ## インストール方法
 
 `$cd ~/catkin_ws/src/`  
-`&git clone  
+`&git clone https://github.com/Asahi0801/mypkg1.git
 `$cd ..`  
 `$catkin_make`  
 
@@ -27,20 +27,16 @@
 ディレクトリに移動する。  
 `$cd ~/catkin_ws/src/mypkg/scripts/`  
 
-パーミッションの設定  
-`$chmod +x count.py`
-`$chmod +x fukitu.py`
+4つの端末に以下のコマンド順番に入力する。  
 
-4つのターミナルに以下のコマンド順番に入力する。  
-
-ターミナル1  
+端末1  
 `$roscore`   
-ターミナル2  
+端末2  
 `$rosrun mypkg count.py`  
-ターミナル3  
-`$rosrun mypkg fukitu.py`  
-ターミナル4  
-`$rostopic echo /fukitu`
+端末3  
+`$rosrun mypkg tentimes.py`  
+端末4  
+`$rostopic echo /tentimes`
 
 ---
 
