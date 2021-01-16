@@ -46,4 +46,4 @@
  
 ---  
 ## ライセンス  
-[BSD 3-Clause "NEW" or "Revised" Lisence]()
+[BSD 3-Clause "NEW" or "Revised" Lisence](https://github.com/Asahi0801/mypkg1/blob/master/LICENSE)
