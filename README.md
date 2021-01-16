@@ -46,4 +46,4 @@
  
 ---  
 ## ライセンス  
-[BSD 3-Clause "NEW
+[BSD 3-Clause "NEW" or "Revised" Lisence(
