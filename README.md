@@ -16,10 +16,9 @@
 ## インストール方法
 
 `$cd ~/catkin_ws/src/`  
-`&git clone https://github.com/Asahi0801/mypkg1.git  
-`$cd ..`  
+`$git clone https://github.com/Asahi0801/mypkg1.git  
+`$cd ~/catkin_ws`  
 `$catkin_make`  
-
 
 ---
 
