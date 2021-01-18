@@ -19,7 +19,7 @@
 `$cd ~/catkin_ws/src`  
 `$git clone https://github.com/Asahi0801/mypkg.git`
 `$cd ~/catkin_ws`  
-`$catkin_make`
+`$catkin_make`  
 `$cd src/mypkg/scripts
 
 ---
