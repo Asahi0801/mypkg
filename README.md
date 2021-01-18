@@ -18,10 +18,8 @@
 
 `$cd ~/catkin_ws/src`  
 `$git clone https://github.com/Asahi0801/mypkg.git`  
-`$cd ~/catkin_ws`  
+`$cd ..`  
 `$catkin_make`  
-`$cd src/mypkg/scripts`
-
 ---
 
 ## 実行手順
