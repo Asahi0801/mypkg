@@ -16,7 +16,7 @@
 
 ## インストール方法
 
-`$cd ~/catkin_ws/src/`  
+`$cd ~/catkin_ws/src`  
 `$git clone https://github.com/Asahi0801/mypkg1.git`  
 `$cd ..`  
 `$catkin_make`
@@ -26,7 +26,7 @@
 ## 実行手順
 
 ディレクトリに移動する。  
-`$cd ~/catkin_ws/src/mypkg/scripts/`  
+`$cd ~/catkin_ws/src/mypkg/scripts`  
 
 4つの端末に以下のコマンド順番に入力する。  
 
